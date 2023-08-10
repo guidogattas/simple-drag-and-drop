@@ -7,4 +7,5 @@ ul{
     list-style: none;
     padding: 1rem;
     border: 2px solid blue;
+    max-width: 300px;
 }
